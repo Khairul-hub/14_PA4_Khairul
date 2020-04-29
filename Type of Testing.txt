@@ -5,7 +5,7 @@ Unit Testing
 	    team of programmers, which is tested in isolation from the more complete system. 
 	    Unit testing (or component testing) is to test the smallest units or software components in a program.
 
-	2. Unit Testing is conducted by ______________
+	2. Unit Testing is conducted by _Programmers
 	    Unit testing is conducted by developers/programmers.
 
 	3. It is type of (blackbox/whitebox testing)
@@ -19,8 +19,11 @@ Integration Testing
 	    and continues until the entire system is complete.
 	    Integration testing is to reveal interface problems as well as conflicts between integrated parts.
 
-	2. Integration Testing is conducted by ______________
+	2. Integration Testing is conducted by programmers
 	    Integration testing is conducted by developers/programmers.
 
 	3. It is type of (blackbox/whitebox testing)
 	    Can be either Black-box or White-box Testing.
+
+
+Acceptance testing is conducted by end customers..
