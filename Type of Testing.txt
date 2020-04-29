@@ -26,4 +26,4 @@ Integration Testing
 	    Can be either Black-box or White-box Testing.
 
 
-Acceptance testing is conducted by end customers.
+Acceptance testing is conducted by end customers..
